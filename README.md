@@ -21,6 +21,10 @@ Una versión moderna, ligera y completamente fluida del clásico Pac-Man, desarr
 -Dispositivos Móviles:
  * Utiliza los botones direccionales en pantalla o desliza el dedo (swipe) sobre el tablero de juego.
 
+### 📥 Enlaces de Descarga
+* **Última Versión:** [Descargar APK](../../releases/latest)
+* **Historial de Versiones:** [Ver todas las releases](../../releases)
+
 ## **🚀 Instalación y Ejecución local:**
 
 Al ser un proyecto estático puro, no requiere servidores de Node.js ni instalaciones complejas:
