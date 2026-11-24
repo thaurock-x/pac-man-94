@@ -1,4 +1,4 @@
-# **🕹️ Pac-Man 94**
+# **👾 Pac-Man 94**
 
 Una versión moderna, ligera y completamente fluida del clásico Pac-Man, desarrollada en un único archivo HTML autocontenido (HTML, CSS y JavaScript nativo). Diseñada con una interfaz arcade futurista, adaptada tanto para computadoras como para dispositivos móviles.
 
